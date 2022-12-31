@@ -7,9 +7,9 @@ const Footer = () => {
                 <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
-                    <p>Copyright © 2036 <a href="/">Cyborg Gaming</a> Company. All rights reserved. 
+                    <p>Copyright © 2023 <a href="/">Cyborg Gaming</a> Company. All rights reserved. 
                     
-                    <br />Design: <a href="/" target="_blank" title="free CSS templates">TemplateMo</a></p>
+                    <br />Designed By: <a href="/" target="_blank" title="free CSS templates">ManDo</a></p>
                     </div>
                 </div>
                 </div>
