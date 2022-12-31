@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactCyporg/static/css/main.e06aa8c2.css",
-    "main.js": "/reactCyporg/static/js/main.db5440bc.js",
+    "main.js": "/reactCyporg/static/js/main.ce917302.js",
     "static/media/banner-bg.jpg": "/reactCyporg/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/popular-02.jpg": "/reactCyporg/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
     "static/media/popular-01.jpg": "/reactCyporg/static/media/popular-01.d591ee7091c3349e3472.jpg",
@@ -9,10 +9,10 @@
     "static/media/popular-03.jpg": "/reactCyporg/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/reactCyporg/index.html",
     "main.e06aa8c2.css.map": "/reactCyporg/static/css/main.e06aa8c2.css.map",
-    "main.db5440bc.js.map": "/reactCyporg/static/js/main.db5440bc.js.map"
+    "main.ce917302.js.map": "/reactCyporg/static/js/main.ce917302.js.map"
   },
   "entrypoints": [
     "static/css/main.e06aa8c2.css",
-    "static/js/main.db5440bc.js"
+    "static/js/main.ce917302.js"
   ]
 }
